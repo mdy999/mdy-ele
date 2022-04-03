@@ -1,0 +1,1 @@
+import{d as n,e as a,c as i,h as r,r as l,o as u,n as c}from"./vendor.3dbabbbc.js";const p=c(" \u6253\u5F00\u5427 "),f=n({setup(_){const e=a(!1);return(d,t)=>{const o=l("mdy-icon",!0);return u(),i(o,{title:"\u56FE\u6807",visible:e.value,"onUpdate:visible":t[0]||(t[0]=s=>e.value=s)},{default:r(()=>[p]),_:1},8,["visible"])}}});export{f as default};

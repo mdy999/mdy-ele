@@ -1,0 +1,1 @@
+import{d as t,c as s,r as a,o as l}from"./vendor.3dbabbbc.js";const m=t({setup(r){const o=e=>{console.log(e)},n=e=>{console.log(e)};return(e,_)=>{const c=a("mdy-select-city",!0);return l(),s(c,{onChooseChange:o,onSelectChange:n})}}});export{m as default};
